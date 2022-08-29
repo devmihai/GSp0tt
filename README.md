@@ -1,2 +1,1 @@
-# GSp0tt <br>
-Site in progress
+#A presentation page for a streamer.
